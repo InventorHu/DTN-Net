@@ -48,4 +48,4 @@ To visuaize the result of affordance detection and pose estimation, execute the 
 ## 6.Model_valuation
 We prepared the evaluate_results.py to test the results and calculate the metrics.
 
-                evaluate_results.py ----result   <Path to result .pkl file>
+                python3 evaluate_results.py ----result   <Path to result .pkl file>
